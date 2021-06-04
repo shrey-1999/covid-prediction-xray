@@ -1,6 +1,5 @@
 numpy
 pandas
-opencv
 scikit-learn
 keras
 base64
