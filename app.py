@@ -5,7 +5,6 @@ import numpy as np
 import base64
 from PIL import Image
 import io
-import re
 
 img_size=100
 
